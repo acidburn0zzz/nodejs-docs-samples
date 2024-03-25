@@ -22,7 +22,7 @@
     "e2e-test": "samples test deploy"
   },
   "dependencies": {
-    "express": "4.15.2",
+    "express": "4.19.2",
     "got": "6.7.1"
   },
   "devDependencies": {
